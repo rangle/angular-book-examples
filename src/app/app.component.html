@@ -2,3 +2,9 @@
 <p>
   Start editing to see some magic happen :)
 </p>
+<h3>Using Pipes</h3>
+<p>Total price of product is {{ price | currency }}</p>
+<h3>Parameterised Pipes</h3>
+<p>Total price of product is {{ price | currency: 'CAD':true:'1.2-4' }}</p>
+<h3>Chaining Pipes</h3>
+<p>Total price of product is {{ price | currency: 'CAD':true:'1.2-4' | lowercase }}</p>
