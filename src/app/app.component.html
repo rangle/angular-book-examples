@@ -2,3 +2,6 @@
 <p>
   Start editing to see some magic happen :)
 </p>
+<h3>Custom Pipes</h3>
+<p *ngFor="let f of fileSizes">{{ f | formatFileSize }}</p>
+<p>{{ largeFileSize | formatFileSize: true }}</p>
