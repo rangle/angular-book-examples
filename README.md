@@ -11,3 +11,8 @@ https://stackblitz.com/github/rangle/angular-book-examples
 
 Using Pipes Example: 
 https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-using-pipes
+
+### Examples
+* [Using Pipes](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-using-pipes)
+* [Custom Pipes](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-custom-pipes)
+* [Pure / Impure Pipes](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-pure-impure-pipes)
