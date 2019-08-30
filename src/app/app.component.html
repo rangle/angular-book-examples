@@ -2,3 +2,10 @@
 <p>
   Start editing to see some magic happen :)
 </p>
+<h3></h3>
+<h3>Async Pipe</h3>
+<p>Total price of product is {{ fetchPrice | async | currency: 'CAD':'$':'1.2-2' }}</p>
+<p>Seconds: {{ seconds | async }}</p>
+
+<h3>Custom Async Pipe</h3>
+<p>This web page has {{ pageViews | animateNumber }} views!</p>
