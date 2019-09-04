@@ -17,6 +17,7 @@ https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-using-pipes
 * [Basic Router](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-basic-router)
 * [Router Route Parmas](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-router-route-paramas)
 * [Programmatic Route Navigation](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-programmatic-route-navigation)
+* [Child Routes](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-child-routes)
 
 ##### Pipes
 * [Using Pipes](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-using-pipes)
