@@ -12,7 +12,11 @@ https://stackblitz.com/github/rangle/angular-book-examples
 Using Pipes Example: 
 https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-using-pipes
 
-### Examples
+> All examples by chapter are listed below.
+##### Router
+* [Basic Router](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-basic-router)
+
+##### Pipes
 * [Using Pipes](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-using-pipes)
 * [Custom Pipes](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-custom-pipes)
 * [Pure / Impure Pipes](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-pure-impure-pipes)
