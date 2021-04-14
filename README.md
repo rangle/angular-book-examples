@@ -15,7 +15,7 @@ https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-using-pipes
 > All examples by chapter are listed below.
 ##### Router
 * [Basic Router](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-basic-router)
-* [Router Route Parmas](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-router-route-paramas)
+* [Router Route Parameters](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-router-route-params)
 * [Programmatic Route Navigation](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-programmatic-route-navigation)
 * [Child Routes](https://stackblitz.com/github/rangle/angular-book-examples/tree/feat-child-routes)
 
