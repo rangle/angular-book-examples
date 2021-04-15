@@ -8,6 +8,7 @@ import { ActivatedRoute } from '@angular/router';
 
     <nav>
       <a [routerLink]="['child-one']">Child One</a>
+      &nbsp;
       <a [routerLink]="['child-two']">Child Two</a>
     </nav>
 
