@@ -1,0 +1,10 @@
+<h2>Product Details For Product Id: {{id}}</h2>
+<!-- Product information -->
+<nav>
+  <a [routerLink]="['overview']">Overview</a>&nbsp;
+  <a [routerLink]="['specs']">Technical Specs</a>
+</nav>
+<div style="margin-top: 2rem;">
+  <router-outlet></router-outlet>
+  <!-- Overview & Specs components get added here by the router -->
+</div>
